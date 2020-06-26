@@ -12,16 +12,15 @@ StdID | Name
 The coronavirus, or COVID-19, is inciting panic for a number of reasons. It's a new virus, meaning no one has immunity, and there is no vaccine..So we have come with an idea and decided make an interesting and interacting mobile app for general public to get updated. and deal with this wrost circumtances.
  
 ## Tasks Performed ##
-We saw in class that the actual reason of using a device or interacting with an interface is to accomplish a task. List around 10 tasks that you think users performs in your domain of choosing where good HCI can help people.
 1. facts and figures about Coronavirus in Pakistan.
-2.Cases (24 HRS).
-3.Deaths (24 HRS).
-4.Tests (24 HRS).
-5.Total Tests.
-6.Corona Virus Symptoms
-7.Precautions.
-8.Myths about COVID-19.
-9.Frequently Asked Questions.
+2. Cases (24 HRS).
+3. Deaths (24 HRS).
+4. Tests (24 HRS).
+5. Total Tests.
+6. Corona Virus Symptoms
+7. Precautions.
+8. Myths about COVID-19.
+9. Frequently Asked Questions.
 10. News & Latest information.
 
 ## Some Task ##
