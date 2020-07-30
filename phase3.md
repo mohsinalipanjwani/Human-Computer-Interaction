@@ -1,7 +1,7 @@
 # Phase 3: Narowing down the Application#
 After more research the application starts to effect more especially generanl user will get interact easily. and we are all set to make High fidelity.
 
-## Task Finalization##
+## Task Finalization
 TOTAL CASES (country wise)
 search your area (reagion or UC wise)
 precausions
