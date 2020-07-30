@@ -11,7 +11,6 @@ Frequently Asked Questions.
 Corona Virus Symptoms
 Precautions.
 
-From the list of tasks that you provided in phase 1, select 1 or 2 that you intent to implement in your application or provide ease to the society by applying HCI concepts to that task. 
 
 
 facts and figures about Coronavirus in Pakistan that can interect gernal user as well.
@@ -19,18 +18,23 @@ Cases (24 HRS) but by region by city as well.
 
 ## Need Finding ##
 
-Images attached in repository
 
 
-Many other questions. 
+![f3](https://user-images.githubusercontent.com/47965706/88883785-922e2080-d24e-11ea-8893-6778738e344d.jpg)
+![f4](https://user-images.githubusercontent.com/47965706/88883789-935f4d80-d24e-11ea-9fd2-2a0413da7da6.jpg)
+
 
 ## Design Alternatives ##
 
-Images attached in repository
+![design alternative](https://user-images.githubusercontent.com/47965706/88883519-fe5c5480-d24d-11ea-8cb5-2f35f7ec4d04.jpeg)
+![f2](https://user-images.githubusercontent.com/47965706/88883691-67dc6300-d24e-11ea-92ac-da95c7a03ab5.jpg)
 
 ## Prototyping##
-Images attached in repository
 
+![storyboard](https://user-images.githubusercontent.com/47965706/88883452-d40a9700-d24d-11ea-8c5b-8607719aa104.jpeg)
 
-##Evaluation##
-Get the prototypes evaluated quickly by someone in your family or circle.  
+![home](https://user-images.githubusercontent.com/47965706/88883472-dff65900-d24d-11ea-8b94-0a0dc96e92b3.jpeg)
+
+![info](https://user-images.githubusercontent.com/47965706/88883495-ebe21b00-d24d-11ea-9e81-5f5eae145a79.jpeg)
+
+ 
