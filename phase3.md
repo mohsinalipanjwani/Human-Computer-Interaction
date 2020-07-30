@@ -1,34 +1,20 @@
-#Phase 3: Narowing down the Application#
+# Phase 3: Narowing down the Application#
 After more research the application starts to effect more especially generanl user will get interact easily. and we are all set to make High fidelity.
-##Task Finalization##
+
+## Task Finalization##
 TOTAL CASES (country wise)
 search your area (reagion or UC wise)
 precausions
 facts and figures
 
-From the list of tasks that you provided in phase 1, select 1 or 2 that you intent to implement in your application or provide ease to the society by applying HCI concepts to that task. 
 
-##Need Finding##
 
-Use internet to find videos, real scenarios, current trends etc etc of how that particular task is usually performed. 
-attached!
-Who are the major target audience/users who perform the task selected. 
+![s1](https://user-images.githubusercontent.com/47965706/88883321-7d04c200-d24d-11ea-9900-fcd2d226653f.jpg)
 
-Many other questions. 
+![s2](https://user-images.githubusercontent.com/47965706/88883332-80984900-d24d-11ea-8f91-598f59fc8e19.jpg)
 
-##Design Alternatives##
+![s3](https://user-images.githubusercontent.com/47965706/88883337-83933980-d24d-11ea-9823-fa0e5a7c9a88.jpg)
 
-1) List down at-least 10 design alternatives.
-2) Based on your research above, Develop personas, scenarios and storyboards which will provide you with insight of how actually your designs will be used.
-- 6-7 personas
-- 4 scenarios
-- 4 storyboards
-3) Brainstorm few questions from perspective of each persona in each scenario and story.  
-4) Based on those question finalize at-least 2 designs.
-attached!
-##Prototyping##
-Develop low fidelity prototypes for each of the 2 disgns selected above. 
+![s4](https://user-images.githubusercontent.com/47965706/88883342-855cfd00-d24d-11ea-9061-22e76905df84.jpg)
 
-attached!
-##Evaluation##
-Get the prototypes evaluated quickly by someone in your family or circle.  
+![s5](https://user-images.githubusercontent.com/47965706/88883345-868e2a00-d24d-11ea-834c-5ef324496fe9.jpg)
